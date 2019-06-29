@@ -11,3 +11,5 @@ body #wall #tag-2 { /* 201 */
 div#wall #tag-3, .wicked {
   display:none;
 }
+
+#wall .parent
