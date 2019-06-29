@@ -1,3 +1,9 @@
 /* write your override styles here */
+#wall .tag-1 { /* 110 */
+  display: none;
+}
 
-{
+/* Tag 2 -> 200 */
+body #wall #tag-2 { /* 201 */
+  display: none;
+}
