@@ -19,3 +19,11 @@ body #wall #tag-2 { /* 201 */
 #wall .parent #tag-5, .slick {
   display: none;
 }
+
+#wall .parent #tag-6 {
+  display: none;
+}
+
+#wall .parent #tag-7, .slick {
+  display: none;
+}
